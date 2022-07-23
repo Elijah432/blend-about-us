@@ -1,0 +1,680 @@
+@media(max-width:1167px){
+    .box1{
+        margin-left: 150px;
+        width: 35%;
+        height: 150;
+        font-size: 20px;
+        color: #6b7280;
+    }
+    .line{
+        border-bottom: 4px solid #008E7B;
+        width: 80%;
+        margin-bottom: 10px;
+        margin-left: 120px;
+    }
+    .first .lost{
+        width: 18.1%;
+        /* background-color: red; */
+        margin-left: 120px;
+    }
+    .second .lost{
+        width: 18.1%;
+        /* background-color: red; */
+        margin-left: 120px;
+    }
+    .line2{
+        border-bottom: 4px solid #008E7B;
+        width: 80%;
+        margin-top: 60px;
+        margin-left: 130px;
+    }
+    .social2{
+        width: 100%;
+        background-color: #F7F9FB;
+        height: 340px;
+    }
+    aside{
+        margin-top: 50px;
+    }
+    .fa-circle-plus{
+        color: #00A4A0;
+        cursor: pointer;
+        margin-left: 300px;
+        position: absolute;
+    }
+    .image{
+        margin-top: 30px;
+        background-color: #F5F5F5;
+        height: 280px;
+        width: 95.5%;
+        margin-left: 33px;
+    }
+}
+@media(max-width:1073px){
+    .box1{
+        margin-left: 80px;
+        width: 35%;
+        height: 150;
+        font-size: 20px;
+        color: #6b7280;
+    }
+    .first .lost{
+        width: 18.1%;
+        /* background-color: red; */
+        margin-left: 80px;
+    }
+    .second .lost{
+        width: 18.1%;
+        /* background-color: red; */
+        margin-left: 80px;
+    }
+    .line2{
+        border-bottom: 4px solid #008E7B;
+        width: 85%;
+        margin-top: 60px;
+        margin-left: 80px;
+    }
+    .fa-circle-plus{
+        color: #00A4A0;
+        cursor: pointer;
+        margin-left: 200px;
+        position: absolute;
+    }
+    .social p{
+        width: 67%;
+        font-size: 20px;
+        color: #6b7280; 
+        margin-top: 35px;
+        margin-left: 165px;
+    }
+    .social2 p{
+        width: 67%;
+        font-size: 20px;
+        color: #6b7280; 
+        margin-top: 20px;
+        margin-left: 165px;
+    }
+}
+@media(max-width:999px){
+    .we{
+        padding-left: 100px;
+    }
+    .ph{
+      padding-left: 100px;
+    }
+    .first p{
+        width: 72%;
+        font-size: 16px;
+        margin-left:120px;
+        margin-top: 100px;
+    }
+    .second p{
+        width: 72%;
+        font-size: 16px;
+        margin-left:120px;
+        margin-top: 100px;
+    }
+    .second .lost{
+        width: 25.1%;
+    }
+    .first .lost{
+        width: 25.1%;
+    }
+}
+@media(max-width:940px){
+    .image{
+        height: 225px;
+        margin-left: 20px;
+    }
+    article{
+        background-color: #042C42;
+        width: 100%;
+        margin-top: 200px;
+    }
+    .first{
+        display: block;
+    }
+    .first .lost{
+        margin-left: 345px;
+    }
+    .first p{
+        text-align: justify;
+        margin-top: 20px;
+        margin-left:100px;
+        width: 80%;
+    }
+    .second{
+        display: block;
+    }
+    .second .lost{
+        margin-left: 345px;
+    }
+    .second p{
+        text-align: justify;
+        margin-top: 20px;
+        margin-left:100px;
+        width: 80%;
+    }
+}
+@media(max-width:900px){
+    .line{
+        margin-top: 20px;
+    }
+    .line2{
+        margin-left: 70px;
+    }
+    .first .lost{
+        margin-left: 340px;
+    }
+    .first p{
+        margin-left:90px;
+    }
+    .second .lost{
+        margin-left: 340px;
+    }
+    .second p{
+        margin-left:90px;
+    }
+    .blend{
+        display: block;
+    }
+    .box1{
+       width: 80%;
+    }
+    .we{
+        padding-left: 80px;
+    }
+    .ph{
+      padding-left: 80px;
+    }
+    .social h5{
+        padding-top: 20px;
+    }
+    .social2{
+        background: none;
+    }
+    .leave{
+        display: none;
+    }
+    .show{
+        display: inherit !important;
+    }
+    .social2 p{
+        margin-left: 145px;
+    }
+    .social p{
+        margin-left: 145px;
+    }
+}
+@media(max-width:835px){
+    .first .lost{
+        margin-left: 300px;
+    }
+    .second .lost{
+        margin-left: 300px;
+    }
+    .line2{
+        margin-left: 60px;
+    }
+}
+@media(max-width:800px){
+    .first .lost{
+        margin-left: 280px;
+        width: 29%;
+    }
+    .first p{
+        margin-left: 80px;
+    }
+    .second .lost{
+        margin-left: 280px;
+        width: 29%;
+    }
+    .second p{
+        margin-left: 80px;
+    }
+    .line2{
+        margin-left: 60px;
+    }
+    .line{
+        margin-left: 80px;
+    }
+    .social p{
+        margin-left: 130px;
+    }
+    .social2 p{
+        margin-left: 130px;
+    }
+}
+@media(max-width:750px){
+    .first .lost{
+        margin-left: 260px;
+        width: 31%;
+    }
+    .second .lost{
+        margin-left: 260px;
+        width: 31%;
+    }
+    .social p{
+        margin-left: 100px;
+        width: 75%;
+    }
+    .image{
+        height: 180px;
+    }
+}
+@media(max-width:700px){
+    .fa-circle-plus{
+        color: #00A4A0;
+        cursor: pointer;
+        margin-left: 100px;
+        position: absolute;
+    }
+    .first .lost{
+        margin-left: 230px;
+        width: 33%;
+    }
+    .second .lost{
+        margin-left: 230px;
+        width: 33%;
+    }
+    .line2{
+        margin-left: 50px;
+    }
+    .social p{
+        margin-left: 55px;
+        width: 85%;
+    }
+}
+@media(max-width:650px){
+    .meet .image{
+        display: none !important;
+    }
+    .meet .image2{
+        display: inherit !important;
+    }
+    .image2{
+        margin-top: 30px;
+        background-color: #F5F5F5;
+        height: 820px;
+        width: 95.5%;
+        margin-left: 15px;
+    }
+    .image2 img{
+        width: 100%;
+        -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+        filter: grayscale(100%);
+    }
+    .image2 .bold{
+        padding-top: 15px;
+        font-weight: 600;
+        font-size: 22px;
+    }
+    article{
+        margin-top: 50px;
+    }
+    .first .lost{
+        margin-left: 210px;
+        width: 36%;
+    }
+    .second .lost{
+        margin-left: 210px;
+        width: 36%;
+    }
+    .first p{
+        margin-left: 60px;
+    }
+    .second p{
+        margin-left: 60px;
+    }
+    .social p{
+        margin-left: 50px;
+        width: 85%;
+    }
+    .social2 p{
+        margin-left: 50px;
+        width: 85%;
+    }
+}
+@media(max-width:600px){
+    .left{
+        width: 40%;
+        
+        margin-left: 50px;
+    }
+    .right{
+        width: 35%;
+        
+        margin-left: 50px;
+    }
+    .first .lost{
+        margin-left: 180px;
+        width: 38.5%;
+    }
+    .second .lost{
+        margin-left: 180px;
+        width: 38.5%;
+    }
+    .line2{
+        margin-left: 40px;
+    }
+    .first p{
+        margin-left: 55px;
+    }
+    .second p{
+        margin-left: 55px;
+    }
+    .social p{
+        margin-left: 40px;
+        width: 85%;
+    }
+    .social2 p{
+        margin-left: 40px;
+        width: 85%;
+    }
+}
+@media(max-width:583px){
+    .social{
+        height: 450px;
+    }
+}
+@media(max-width:565px){
+    .click .loan1{
+        font-size: 15px;
+        width: 270.39px;
+        height: 47px;
+    }
+    .click .loan2{
+        font-size: 15px;
+        width: 245.77px;
+        height: 47px;
+    }
+}
+@media(max-width:550px){
+    .box1{
+        margin-left: 50px;
+    }
+    .we{
+        padding-left: 50px;
+    }
+    .ph{
+      padding-left: 50px;
+    }
+    .line{
+        margin-left: 55px;
+    }
+    .first .lost{
+        margin-left: 155px;
+        width: 42.5%;
+    }
+    .second .lost{
+        margin-left: 155px;
+        width: 42.5%;
+    }
+    .fa-circle-plus{
+        margin-left: 50px;
+    }
+}
+@media(max-width:500px){
+    .social{
+        height: 500px;
+    }
+    .click .loan1{
+        font-size: 13px;
+        width: 250.39px;
+        height: 47px;
+    }
+    .click .loan2{
+        font-size: 13px;
+        width: 225.77px;
+        height: 47px;
+    }
+    .image2{
+        margin-left: 10px;
+    }
+    .first .lost{
+        margin-left: 140px;
+        width: 46%;
+    }
+    .second .lost{
+        margin-left: 140px;
+        width: 46%;
+    }
+    .first p{
+        margin-left: 45px;
+    }
+    .second p{
+        margin-left: 45px;
+    }
+    .line2{
+        margin-left: 35px;
+    }
+}
+@media(max-width:490px){
+    .reduce{
+        width: 210px;
+    }
+    .left{
+        width: 40%;
+        
+        margin-left: 20px;
+    }
+    .right{
+        width: 35%;
+        
+        margin-left: 30px;
+    }
+    .rotate{
+        display: none !important;
+    }
+    .rotate2{
+        display: inherit !important;
+        margin-left: 90px;
+    }
+    .rotate2 .loan1{
+        background-color: #00A49A;
+        color: white;
+        font-size: 18px;
+        border-radius: 8px;
+        border: none;
+        padding: 10px 20px;
+        width: 299.39px;
+        height: 47px;
+        box-shadow: 0px 0px 20px rgb(170, 169, 169);
+    }
+    .rotate2 .loan2{
+        background-color: #00A49A;
+        color: white;
+        font-size: 18px;
+        border-radius: 8px;
+        border: none;
+        padding: 10px 20px;
+        width: 299.39px;
+        height: 47px;
+        box-shadow: 0px 0px 20px rgb(170, 169, 169);
+    }
+    .social{
+        height: 600px;
+    }
+    .first .lost{
+        margin-left: 130px;
+        width: 46%;
+    }
+    .second .lost{
+        margin-left: 130px;
+        width: 46%;
+    }
+}
+@media(max-width:450px){
+    .box1{
+        margin-left: 20px;
+    }
+    .we{    
+        padding-left: 20px;
+    }
+    .ph{
+      padding-left: 20px;
+    }
+    .show{
+        margin-top: 80px;
+    }
+    .rotate2{ 
+        margin-left: 75px;
+    }
+    .first .lost{
+        margin-left: 110px;
+        width: 51.5%;
+    }
+    .second .lost{
+        margin-left: 110px;
+        width: 51.5%;
+    }
+}
+@media(max-width:426px){
+    .reduce{
+        width: 200px;
+    }
+    .fa-circle-plus{
+        margin-left: 20px;
+    }
+    .ph{
+        font-size: 70px;
+    }
+    .line2{
+        margin-left: 30px;
+    }
+    .first .lost{
+        margin-left: 92px;
+        width: 54.5%;
+    }
+    .second .lost{
+        margin-left: 92px;
+        width: 54.5%;
+    }
+    .rotate2{
+        display: inherit !important;
+        margin-left: 60px;
+    }
+}
+@media(max-width:400px){
+    .social p{
+        margin-left: 0px;
+        width: 100%;
+    }
+    .social2 p{
+        margin-left: 0px;
+        width: 100%;
+    }
+    .roll{
+        display: block !important;
+    }
+    article{
+        margin-top: 1100px;
+    }
+    .reduce{
+        width: 150px;
+    }
+    .fa-circle-plus{
+        margin-left: 5px;
+    }
+    .rotate2{ 
+        margin-left: 40px;
+    }
+    .first .lost{
+        margin-left: 80px;
+        width: 57.5%;
+    }
+    .second .lost{
+        margin-left: 80px;
+        width: 57.5%;
+    }
+    .first p{
+        margin-left: 40px;
+    }
+    .second p{
+        margin-left: 40px;
+    }
+}
+@media(max-width:367px){
+    .ph{
+        font-size: 55px;
+    }
+    .rotate2{ 
+        margin-left: 20px;
+    }
+    .line2{
+        margin-left: 20px;
+    }
+    .line{
+        margin-left: 24px;
+    }
+    .first .lost{
+        margin-left: 70px;
+        width: 63%;
+    }
+    .second .lost{
+        margin-left: 70px;
+        width: 63%;
+    }
+    .first p{
+        margin-left: 30px;
+    }
+    .second p{
+        margin-left: 30px;
+    }
+}
+@media(max-width:350px){
+    .first .lost{
+        margin-left: 50px;
+        width: 66%;
+    }
+    .second .lost{
+        margin-left: 50px;
+        width: 66%;
+    }
+}
+@media(max-width:320px){
+    .first .lost{
+        margin-left: 40px;
+        width: 72%;
+    }
+    .second .lost{
+        margin-left: 40px;
+        width: 72%;
+    }
+    .rotate2{ 
+        margin-left: 0px;
+    }
+}
+@media(max-width:300px){
+    .ph{
+        font-size: 45px;
+        padding-top: 10px;
+    }
+    article{
+        margin-top: 700px;
+    }
+    .click .loan1{
+        font-size: 13px;
+        width: 250.39px;
+        height: 47px;
+    }
+    .click .loan2{
+        font-size: 13px;
+        width: 250.39px;
+        height: 47px;
+    }
+    .reduce{
+        width: 100px;
+    }
+    .social h2{
+        font-size: 27px;
+    }
+    .first .lost{
+        margin-left: 30px;
+        width: 78%;
+    }
+    .second .lost{
+        margin-left: 30px;
+        width: 78%;
+    }
+}
